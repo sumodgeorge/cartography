@@ -6,3 +6,4 @@ pytest-cov==2.10.0
 
 types-PyYAML
 types-requests
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
